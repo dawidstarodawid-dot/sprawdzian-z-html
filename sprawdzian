@@ -8,46 +8,8 @@
                   <title>       </title> 
         </head> 
          <body>
-               <p align="left"> <font color="black" size="3" face="Arial"> Walidacja stron internetowych – to proces sprawdzania, czy kod strony nie ma błędów. </font> </p> <br>
-               <p align="left"> <font color="black" size="3" face="Arial"> Walidowanie stron internetowych – to wykonywanie walidacji, czyli poprawianie błędów w kodzie strony. </font> </p> 
-               <IMG SRC="blad_starostecki.jpg" ALIGN=left BORDER=9 ALT="grafika10 Starostecki "><br><br><br><br>
-                <IMG SRC="poprawa_bledu_starostecki.jpg" ALIGN=left BORDER=9 ALT="grafika9 Starostecki "><br><br><br><br>
-               <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+ 
 
-               <a name="skok_poczatek"></a> 
-             <a href="#skok_koniec">kliknij aby skoczyć na koniec tekstu</a> <br>
-             <a href="#skok_srodek">kliknij aby skoczyć na środek tekstu</a> <br>
-<A HREF="Plik_Starostecki.html"> Tutaj jest link do plików </A><br>
-<A HREF="Formularz_Starostecki.html"> Tutaj jest link do formularzu </A><br>
-<A HREF="Tabela_Starostecki.html"> Tutaj jest link do tabeli </A><br>
-<A HREF="Poczta_Starostecki.html"> Tutaj jest link do poczty </A><br>
-<p align="right"> <font color="blue" size="1" face="Arial"> Dawid </font> </p> <br>
-<p align="right"> <font color="blue" size="2" face="Arial"> Dawid </font> </p> <br>
-<p align="right"> <font color="blue" size="3" face="Arial"> Dawid </font> </p> <br>
-<p align="right"> <font color="blue" size="4" face="Arial"> Dawid </font> </p> <br>
-<p align="right"> <font color="blue" size="5" face="Arial"> Dawid </font> </p> <br>
-<p align="right"> <font color="blue" size="6" face="Arial"> Dawid </font> </p> <br>
-<p align="right"> <font color="blue" size="7" face="Arial"> Dawid </font> </p> <br>                                                   <!- Dawid Starostecki-> 
-<h1>  Starostecki </h1><br>
-<h2>  Starostecki </h1><br> 
-<h3>  Starostecki </h1><br> 
-<h4>  Starostecki </h1><br> 
-<h5>  Starostecki </h1><br> 
-<h6>  Starostecki </h1><br> 
-<p align="right"> <font color="grey" size="2" face="Courier New"> :| niezdecydowanie </font> </p> <br>
-<p align="right"> <font color="yellow" size="5" Times New Roman"> :/ grymas </font> </p> <br>
-<p align="right"> <font color="green" size="3" face="Verdana"> :D szeroki uśmiech </font> </p> <br>
-<p align="right"> <font color="red" size="6" face="Times New Roman"> :* pocałunek </font> </p> <br>
-<p align="right"> <font color="orange" size="4" face="Courier New"> :O zdziwienie </font> </p> <br>
-<p align="right"> <font color="purple" size="1" face="Verdana"> XD śmiech </font> </p> <br>
-
-               
-<p align="left"> <font color="black" size="2" face="Verdana"> <b>80-188</b> <u>Kraków Gdański</u> <i>Zraszacza 101/34</i> </font> </p> <br> 
-<p align="right"> <font color="yellow" size="6" face="Courier New"> Ulubiony aktor: Dwayne Rock Johnson </font> </p> <br>  
-<center> <font color="grey" size="4" face="Times New Roman"> Ulubiony zespół muzyczny: <font color="purple" size="2" face="Times New Roman"> ABBA </font> </p> <br></font> </center>
-<p align="center"> <font color="green" size="2" face="Akira"> Data urodzenia:24.12.1997 </font> </p> <br>
-<p align="left"> <b> H2SO4 </b> </p> <br> 
-<p align="left"> <b> x*x=x2 </b> </p> <br>
       <font color="Black">
 <div style="background-color: silver;">  <H1 ALIGN=center> Dowcip o lekarzu </H1> 
       <fieldset> 
@@ -80,91 +42,6 @@
        - To nie będziesz mógł teraz jeść przez 2 godziny  <br /> 
        - Tyle zapłaciłem ,że nie będę jadł przez tydzień.     <br /> 
   <HR SIZE=12 WIDTH=80% ALIGN=RIGHT COLOR=lime>
-            <!- Dawid Starostecki-> 
-<a href="#skok_poczatek">kliknij aby skoczyć na początek tekstu</a><br>
-<a name="skok_srodek"></a> 
-<a href="#skok_koniec">kliknij aby skoczyć na koniec tekstu</a><br>
-<A HREF="Plik_Starostecki.html">Tutaj jest link do plików</A><br>
-<A HREF="Formularz_Starostecki.html">Tutaj jest link do formularzu</A><br>
-<A HREF="Tabela_Starostecki.html"> Tutaj jest link do tabeli</A><br>
-<A HREF="Poczta_Starostecki.html"> Tutaj jest link do poczty</A><br>
-</fieldset>
-<p align="left"> nazwisko ucznia&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;imię ucznia <br></p> 
-<p align="left">  Starostecki&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dawid<br> </p> 
-       &#169; &#162; &#181; &#183; &#194; &#176; &#165;
-      <br><br><br> 
-      <div style="background-color: white;">
-      <div style="background-color: silver;">
-<h1> poniżej są  trzy wyliczenia z różnymi znakami wyliczenia</h1> 
-<h1> Ty zaproponuj swoje, związane z informatyką</h1> 
-            <font color="blue"><H1 ALIGN=left>
-<UL TYPE=disc>  
-<LI> Ryzen 7 5800X   
-<LI> intel core i7
-<LI> intel core i5
-
-</UL>  
-   <UL TYPE=square>  
-<LI> MSI 
-<LI> liyama
-<LI> Samsung
-
-</UL>  
-      <UL TYPE=circle>  
-<LI> logitech   
-<LI> redragon
-<LI> yankee
-
-</UL>  
-                  <br><br><br> 
-                  <font color="black">
-<h3> poniżej są  trzy numerowania z różnymi znakami numerowania</h3> 
-<h3> Ty zaproponuj swoje, związane z informatyką</h3> 
-                  <font color="blue"><H5 ALIGN=left>
-                  <OL TYPE=I START=28>  
-<LI> MSI geforce rtx
-<LI> GIGABYTE geforce rtx
-<LI> asus dual geforce rtx
-
-</OL> 
-                  <OL TYPE=1 START=28>  
-<LI> Redragon Fizz rgb
-<LI> Havit
-<LI> Omega varr
-
-</OL> 
-                  <OL TYPE=A START=28>  
-<LI> GIGABYTE h410 
-<LI> GIGABYTE lga 1700 
-<LI> Asrock
-
-</OL> 
-                  <br><br><br> 
-                        <font color="black">
-<h3> poniżej będą trzy poziomy numerowania/wyliczenia z różnymi  rodzajami numerowania/wyliczenia</h3> 
-<h3> Ty zaproponuj swoje, związane z informatyką</h3> 
-                        <font color="blue"><H3 ALIGN=left>
-                  <OL>  
-<LI>  Urządzenia wewnętrzne komputera 
-         <OL type=A>  
-           <LI> Procesor 
-           <LI> Karta sieciowa
-           <LI> Karta graficzna 
- </OL>  
-       <LI> Urządzenia zewnętrzne komputera 
-     <OL type=A>  
-<LI> Myszka
-     <OL type=a> 
-         <LI> Biurowa
-        <LI> Gamingowa 
- </OL> 
-<LI> Klawiatura
-     <OL type=a> 
-     <LI> Mechaniczna
-     <LI> Pisarska 
-  </OL> 
-</OL> 
-</OL> 
     </body> 
   </html> 
 
