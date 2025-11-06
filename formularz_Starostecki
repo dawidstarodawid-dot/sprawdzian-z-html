@@ -1,0 +1,12 @@
+<!DOCTYPE html> 
+<html lang="pl-PL"> 
+<html> 
+     <head> 
+           <div style="background-color: #f14Fff;">
+             <meta charset="utf-8"> 
+             <title>formularz_Starostecki</title> 
+     </head> 
+    <body> 
+tutaj będzie formularz<br>
+<A HREF="menu_Starostecki.html"> Wróć </A>
+         <br>
