@@ -1,0 +1,17 @@
+<!DOCTYPE html> 
+<html lang="pl-PL"> 
+<html> 
+     <head> 
+             <meta charset="utf-8"> 
+             <title>MENU</title> 
+     </head> 
+    <body> 
+         <body background="tlo_Starostecki">
+                                         To jest strona menu <br>
+<A HREF="index.html"> Wróć </A> <br>
+               <A HREF="formularz_Starostecki.html">  menu Formularz   </A>
+               <br>
+               <A HREF="tabela_Starostecki.html">  menu tabela </A>
+               <br>
+               <A HREF="mail_Starostecki.html"> menu poczta   </A>
+         <br>
